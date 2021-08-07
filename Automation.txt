@@ -1,0 +1,17 @@
+I find it boring too:
+Get up and take the remote at night
+Get up and switch off the tv and ac 
+I also find it boring to Do my homeworkk
+
+The task i want to automate is 
+Getting up and taking any thing so for that what i want to do is:
+
+I will construct a robot which will listen to us 
+
+For that i would use python
+1 i will create an engine
+2 i will give specific commands in the engine
+3 there will be a binary language we will be speaking in with the robot
+4 that binary language will be looped in my code
+5 the binary language will be written on the robot;s hand manual
+6 Your robot iss ready
